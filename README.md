@@ -1,6 +1,1 @@
 - 👋 Hi, I’m @Nirvik30
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on Development Projects
-- 📫 How to reach me IG : @nirvik30
-- 😄 Pronouns: He/Him
